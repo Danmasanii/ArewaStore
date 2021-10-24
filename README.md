@@ -1,1 +1,1 @@
-# ArewaStore
+# ArewaStore Inc.
