@@ -1,2 +1,2 @@
 # ArewaStore
-## [ArewaStore](https://github.com/Danmasanii/ArewaStore]
+## [ArewaStore](https://github.com/Danmasanii/ArewaStore)
