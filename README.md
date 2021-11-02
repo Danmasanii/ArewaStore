@@ -1,3 +1,3 @@
 # ArewaStore Inc.
-## An e-commerce website designed by Abdulazeez Saidu
+## An e-commerce website. 
 ## Link [ArewaStore](https://danmasanii.github.io/ArewaStore/)
