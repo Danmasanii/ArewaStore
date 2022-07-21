@@ -31,7 +31,7 @@
     }
     
     body {
-        background: var(--slate);
+        background: grey;
     }
     
     section {
