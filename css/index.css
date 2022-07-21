@@ -718,6 +718,7 @@
             background-size: cover;
             margin: 0;
         }
+body{color:red}
         .home .content {
             text-align: center;
         }
