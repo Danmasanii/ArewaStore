@@ -1,3 +1,3 @@
 # ArewaStore
 ## An e-commerce website. 
-## [ArewaStore.com](https://danmasanii.github.io/ArewaStore/)
+## [Arewastore.com](https://danmasanii.github.io/ArewaStore/)
